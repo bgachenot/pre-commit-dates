@@ -1,0 +1,5 @@
+- id: rebase-update-current-commit-author-date
+  name: "rebase-update-current-commit-author-date"
+  entry: run-rebase-update-current-commit-author-date.sh
+  language: "script"
+  description: "Yes"
